@@ -1,0 +1,7 @@
+com\javacodegeeks\jpaexample\locationDistrict\Locationdistrict.class
+com\javacodegeeks\jpaexample\model\Capture.class
+com\javacodegeeks\jpaexample\repo1\locationdistrictRepository.class
+com\javacodegeeks\jpaexample\model\CaptureSRC.class
+com\javacodegeeks\jpaexample\model\Location.class
+com\javacodegeeks\jpaexample\config\LocationdistrictConfig.class
+com\javacodegeeks\jpaexample\DataJpaApp.class
